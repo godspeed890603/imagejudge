@@ -6,12 +6,12 @@ https://www.facebook.com/chen.kermit/videos/10210099203195098</br></br>
 1.採用ingle Shot MultiBox Detector (SSD) 架構開發</br></br>
 2.採用tensorflow1.0、keras、openCV、CUDA進行開發測試</br></br>
 3.因應工廠提供的資料不足，採用defect特徵切割的方式，增加sample量，讓labeling可以有更多的資料</br></br>
-4.成果如下。
-5.在後續未評估太引ADC時帶來更多經驗與廠商合作一個更適合工廠的系統
-6.太引ADC系統評估與連結架構
-https://hackmd.io/@PIahL8k2RMKl1pUj4lRpCA/SyOb02Q_P
-7.RCM (Recipe Control Management)
-https://hackmd.io/@PIahL8k2RMKl1pUj4lRpCA/HyGbYpfRD
+4.成果如下。</br></br>
+5.在後續未評估太引ADC時帶來更多經驗與廠商合作一個更適合工廠的系統</br></br>
+6.太引ADC系統評估與連結架構</br></br>
+https://hackmd.io/@PIahL8k2RMKl1pUj4lRpCA/SyOb02Q_P</br></br>
+7.RCM (Recipe Control Management)</br></br>
+https://hackmd.io/@PIahL8k2RMKl1pUj4lRpCA/HyGbYpfRD</br></br>
 
 
 ## 成果
