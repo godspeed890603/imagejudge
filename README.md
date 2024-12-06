@@ -18,4 +18,6 @@ https://hackmd.io/@PIahL8k2RMKl1pUj4lRpCA/HyGbYpfRD</br></br>
 https://github.com/godspeed890603/imagejudge/blob/master/imagejudge/result/Defectjudge.mp4</br></br>
 https://github.com/godspeed890603/imagejudge/blob/master/imagejudge/result/defectJudge-1.mp4</br></br>
 https://github.com/godspeed890603/imagejudge/blob/master/imagejudge/result/DefectJudge-2.mp4</br></br>
+https://www.facebook.com/chen.kermit/videos/10210099203195098</br></br>
+https://www.facebook.com/chen.kermit/videos/10210052003415133</br></br>
 
